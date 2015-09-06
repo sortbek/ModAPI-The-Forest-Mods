@@ -1,0 +1,18 @@
+<Mod ID="Teleport">
+  <Compatible>0.21c</Compatible>
+  <Button Standard="N" ID="TeleportMe">
+    <Name>
+      <EN>Open teleport menu</EN>
+    </Name>
+    <Description>
+      <EN>Here you can save your current location or select a location to teleport to!</EN>
+    </Description>
+  </Button>
+  <Name>
+    <EN>TeleportMod</EN>
+  </Name>
+  <Description>
+    <EN></EN>
+  </Description>
+  <Version>1.0.1.35</Version>
+</Mod>

@@ -1,0 +1,10 @@
+C:\Users\jeffrey\Desktop\MOD\projects\TheForest\InventoryMod\Mod\InventoryMod.dll
+C:\Users\jeffrey\Desktop\MOD\projects\TheForest\InventoryMod\Mod\InventoryMod.pdb
+C:\Users\jeffrey\Desktop\MOD\projects\TheForest\InventoryMod\obj\x86\Release\InventoryMod.csprojResolveAssemblyReference.cache
+C:\Users\jeffrey\Desktop\MOD\projects\TheForest\InventoryMod\obj\x86\Release\InventoryMod.dll
+C:\Users\jeffrey\Desktop\MOD\projects\TheForest\InventoryMod\obj\x86\Release\InventoryMod.pdb
+C:\Users\jeffrey\Desktop\ModAPI 21\projects\TheForest\InventoryMod\Mod\InventoryMod.dll
+C:\Users\jeffrey\Desktop\ModAPI 21\projects\TheForest\InventoryMod\Mod\InventoryMod.pdb
+C:\Users\jeffrey\Desktop\ModAPI 21\projects\TheForest\InventoryMod\obj\x86\Release\InventoryMod.csprojResolveAssemblyReference.cache
+C:\Users\jeffrey\Desktop\ModAPI 21\projects\TheForest\InventoryMod\obj\x86\Release\InventoryMod.dll
+C:\Users\jeffrey\Desktop\ModAPI 21\projects\TheForest\InventoryMod\obj\x86\Release\InventoryMod.pdb
